@@ -9,7 +9,7 @@ e.g. on my system, this is
 ```
 /Applications/Macaulay2-1.*/share/Macaulay2
 ```
-and then install from within a Macaualay2 session
+and then install from within a Macaualay2 session run
 ```
 installPackage "SingularExamples"
 viewHelp "SingularExamples"
